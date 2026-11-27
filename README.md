@@ -11,14 +11,14 @@ An end-to-end data analysis and business intelligence project based on the Super
 * **Youssef Gamal** (Team Member)
 * **Salma Ashour** (Team Member)
 * **Amira Khalifa** (Team Member)
-* **Amira El-Shafei** (Team Member)
+
 
 ## 4. Work Plan
 1. **Data Cleaning & Preparation:** Cleaning raw Superstore records, handling missing values, and standardizing data formats.
 2. **Database Creation:** Structuring and storing the cleaned data into a relational database.
 3. **Data Modeling & DAX Measures:** Building table relationships in Power BI and writing custom DAX measures for core KPIs and shipping duration metrics.
 4. **Dashboard Development:** Designing four dedicated Power BI dashboards (Overview, Order Fulfillment Duration, Product Analysis, and Customer Analysis).
-5. **Review & Finalization:** Validating metrics across all dashboards and ensuring consistent layout and interactivity.
+
 
 ## 5. Roles & Responsibilities
 | Team Member | Responsibilities |
@@ -27,7 +27,7 @@ An end-to-end data analysis and business intelligence project based on the Super
 | **Youssef Gamal** |  designing and developing the Executive Overview Dashboard (high-level KPIs, overall sales, profit, and regional summary). |
 | **Salma Ashour** | Designing and developing the Product Dashboard (category & sub-category performance, product profitability, and top/bottom items). |
 | **Amira Khalifa** | Designing and developing the Customer Analysis Dashboard (customer segmentation, purchasing behavior, and top customers). |
-| **Amira El-Shafei** | Project documentation support and final review. |
+
 
 ## 6. Key Performance Indicators (KPIs)
 * **Total Sales & Net Profit:** Overall revenue generated and profit margins across regions and time periods.
