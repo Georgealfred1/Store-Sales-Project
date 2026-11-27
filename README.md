@@ -23,8 +23,8 @@ An end-to-end data analysis and business intelligence project based on the Super
 ## 5. Roles & Responsibilities
 | Team Member | Responsibilities |
 | :--- | :--- |
-| **George Alfred Mansi Alexan** *(Team Leader)* | Team leadership, Data Cleaning, Database creation, writing DAX Measures, and building the Order Fulfillment & Shipping Duration Dashboard. |
-| **Youssef Gamal** | Data Modeling in Power BI, and designing and developing the Executive Overview Dashboard (high-level KPIs, overall sales, profit, and regional summary). |
+| **George Alfred Mansi Alexan** *(Team Leader)* | Team leadership, Data Cleaning, Database creation,Data Modeling, writing DAX Measures, and building the Order Fulfillment & Shipping Duration Dashboard. |
+| **Youssef Gamal** |  designing and developing the Executive Overview Dashboard (high-level KPIs, overall sales, profit, and regional summary). |
 | **Salma Ashour** | Designing and developing the Product Dashboard (category & sub-category performance, product profitability, and top/bottom items). |
 | **Amira Khalifa** | Designing and developing the Customer Analysis Dashboard (customer segmentation, purchasing behavior, and top customers). |
 | **Amira El-Shafei** | Project documentation support and final review. |
